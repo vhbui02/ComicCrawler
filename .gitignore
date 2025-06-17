@@ -9,3 +9,6 @@ dist
 .venv
 test*.*
 temp
+
+setting.ini
+downloads
